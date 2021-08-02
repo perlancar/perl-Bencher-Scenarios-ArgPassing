@@ -2,3 +2,4 @@ Bencher-Scenarios-ArgPassing-*
 .build
 *~
 nytprof*
+.DS_Store
